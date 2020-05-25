@@ -17,7 +17,7 @@
   
 ## General info  
 
-> A web application created as part of [BINA.work](https://www.notion.so/BINA-work-56326159aff1491ca1d587b2519a65f9). The main motivation to start work was the COVID-19 pandemic and the desire to help creators promote their online activity.  
+> The web application created as part of [BINA.work](https://www.notion.so/BINA-work-56326159aff1491ca1d587b2519a65f9). The main motivation to start work was the COVID-19 pandemic and the desire to help creators promote their online activity.  
   
 ## Technologies  
 
